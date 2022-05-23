@@ -2,6 +2,11 @@
 name = "vtt2csv"
 version = "0.1.0"
 edition = "2021"
+description = "A small tool to convert WebVTT files to CSV files"
+license = "MIT"
+repository = "https://github.com/Kerollmops/csv2json"
+readme = "README.md"
+authors = ["Clément Renault <clement@meilisearch.com>"]
 
 [dependencies]
 anyhow = "1.0.57"
