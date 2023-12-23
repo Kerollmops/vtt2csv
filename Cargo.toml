@@ -1,6 +1,6 @@
 [package]
 name = "vtt2csv"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 description = "A small tool to convert WebVTT files to CSV files"
 license = "MIT"
